@@ -1,6 +1,6 @@
 # PDF Cheatsheets
 
-![alt text](https://github.com/Straightbuggin/pdf_cheatsheets/blob/main/book.svg?raw=true)
+![alt text](https://github.com/Straightbuggin/pdf_cheatsheets/blob/main/book.svg?)
 
 Being able to search online for the tools, hotkeys, commands, etc.. can be very useful, but often times I find myself spending longer than needed to find the right hotkey or command. Sometimes it is just more useful to have a peice of paper with common commands that can be run. Sure, commands will change - but a lot of the ones, which are used do not change.
 
